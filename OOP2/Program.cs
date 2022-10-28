@@ -20,3 +20,4 @@ Musteri musteri4 = new TuzelMusteri();
 
 CustomerManager customerManager = new CustomerManager();
 customerManager.Add(musteri4);
+customerManager.Add(musteri3);
