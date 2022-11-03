@@ -9,7 +9,9 @@ namespace InterfaceAbstractDemo.Contcate
 {
     internal class CustomerCheckManager : ICustomerCheckService
     {
-        public bool CheckCustomer(Customer customer)
+        
+
+        public bool CheckIfRealPerson (Customer customer)
         {
             return true;
         }
