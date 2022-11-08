@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{E133147D-2385-4097-B03E-B2415BBA1466}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{DDB86D24-0F81-489C-B8C4-6E1B780124F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{DDB86D24-0F81-489C-B8C4-6E1B780124F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProjectSimulation", "GameProjectSimulation\GameProjectSimulation.csproj", "{6B39C61D-5367-4F4B-87B6-6CEE73B2D5A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{DDB86D24-0F81-489C-B8C4-6E1B780124F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDB86D24-0F81-489C-B8C4-6E1B780124F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDB86D24-0F81-489C-B8C4-6E1B780124F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B39C61D-5367-4F4B-87B6-6CEE73B2D5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B39C61D-5367-4F4B-87B6-6CEE73B2D5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B39C61D-5367-4F4B-87B6-6CEE73B2D5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B39C61D-5367-4F4B-87B6-6CEE73B2D5A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
