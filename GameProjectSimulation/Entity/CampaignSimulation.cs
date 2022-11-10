@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace GameProjectSimulation.Entity
 {
-    internal class CampaignSimulation
+    internal class Campaign
     {
-        public string CampaingName { get; set; }
+        public string CampaignName { get; set; }
         public int CampaingId { get; set; }
         public float DiscountRate { get; set; }
 

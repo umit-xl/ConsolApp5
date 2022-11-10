@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace GameProjectSimulation.Entity
 {
-    internal class GamerSimulation
+    internal class Gamer
     {
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public DateTime DateOfBirth { get; set; }
-        public string GamerName { get; set; }
+        public float DateOfBirth { get; set; }
+        public string GamerNick { get; set; }
 
     }
 }
