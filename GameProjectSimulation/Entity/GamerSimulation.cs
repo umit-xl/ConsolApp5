@@ -11,8 +11,8 @@ namespace GameProjectSimulation.Entity
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public float DateOfBirth { get; set; }
-        public string GamerNick { get; set; }
+        public int BirthYear { get; set; }
+        public long IdentityNumber { get; set; }
 
     }
 }

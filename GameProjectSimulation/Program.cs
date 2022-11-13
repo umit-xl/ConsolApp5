@@ -12,8 +12,8 @@ Gamer gamer1 = new Gamer();
 gamer1.Id = 1;
 gamer1.FirstName = "Ümit";
 gamer1.LastName = "Arlı";
-gamer1.DateOfBirth = 2000;
-gamer1.GamerNick = "umitxl";
+gamer1.BirthYear = 2000;
+gamer1.IdentityNumber = 39811892146;
 
 gamerManager.Add(gamer1);
 

@@ -16,7 +16,10 @@ namespace GameProjectSimulation.Concrete
         {
             _userValidationService = userValidationService;
         }
-        
+
+        public int BirthYear { get; internal set; }
+        public string FirstName { get; internal set; }
+
         public void Add(Gamer gamer)
         {
             if (_userValidationService.Validate(gamer))

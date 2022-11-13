@@ -8,12 +8,9 @@ using System.Threading.Tasks;
 
 namespace GameProjectSimulation.Abstract
 {
-    internal interface IUserValidationService
+    interface IUserValidationService
     {
-        bool Validate(Gamer gamer)
-        {
-            return true;
-        }
+        bool Validate(Gamer gamer);
     }
 
 }
